@@ -13,6 +13,7 @@ Database Setup:
 
 
 Project Run:
+
 	I am providing the deployed link(it may take some time to load as it is on free platform):
  
  	https://new-img2.onrender.com/swagger-ui/index.html#/
